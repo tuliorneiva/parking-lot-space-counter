@@ -1,0 +1,398 @@
+{
+    "1": {
+        "mask_file": "mask_space_1.png",
+        "occupied": 1
+    },
+    "2": {
+        "mask_file": "mask_space_2.png",
+        "occupied": 0
+    },
+    "3": {
+        "mask_file": "mask_space_3.png",
+        "occupied": 1
+    },
+    "4": {
+        "mask_file": "mask_space_4.png",
+        "occupied": 0
+    },
+    "5": {
+        "mask_file": "mask_space_5.png",
+        "occupied": 1
+    },
+    "6": {
+        "mask_file": "mask_space_6.png",
+        "occupied": 1
+    },
+    "7": {
+        "mask_file": "mask_space_7.png",
+        "occupied": 0
+    },
+    "8": {
+        "mask_file": "mask_space_8.png",
+        "occupied": 0
+    },
+    "9": {
+        "mask_file": "mask_space_9.png",
+        "occupied": 0
+    },
+    "10": {
+        "mask_file": "mask_space_10.png",
+        "occupied": 0
+    },
+    "11": {
+        "mask_file": "mask_space_11.png",
+        "occupied": 0
+    },
+    "12": {
+        "mask_file": "mask_space_12.png",
+        "occupied": 1
+    },
+    "13": {
+        "mask_file": "mask_space_13.png",
+        "occupied": 1
+    },
+    "14": {
+        "mask_file": "mask_space_14.png",
+        "occupied": 0
+    },
+    "15": {
+        "mask_file": "mask_space_15.png",
+        "occupied": 0
+    },
+    "16": {
+        "mask_file": "mask_space_16.png",
+        "occupied": 0
+    },
+    "17": {
+        "mask_file": "mask_space_17.png",
+        "occupied": 1
+    },
+    "18": {
+        "mask_file": "mask_space_18.png",
+        "occupied": 1
+    },
+    "19": {
+        "mask_file": "mask_space_19.png",
+        "occupied": 1
+    },
+    "20": {
+        "mask_file": "mask_space_20.png",
+        "occupied": 0
+    },
+    "21": {
+        "mask_file": "mask_space_21.png",
+        "occupied": 1
+    },
+    "22": {
+        "mask_file": "mask_space_22.png",
+        "occupied": 0
+    },
+    "23": {
+        "mask_file": "mask_space_23.png",
+        "occupied": 0
+    },
+    "24": {
+        "mask_file": "mask_space_24.png",
+        "occupied": 0
+    },
+    "25": {
+        "mask_file": "mask_space_25.png",
+        "occupied": 1
+    },
+    "26": {
+        "mask_file": "mask_space_26.png",
+        "occupied": 0
+    },
+    "27": {
+        "mask_file": "mask_space_27.png",
+        "occupied": 1
+    },
+    "28": {
+        "mask_file": "mask_space_28.png",
+        "occupied": 0
+    },
+    "29": {
+        "mask_file": "mask_space_29.png",
+        "occupied": 1
+    },
+    "30": {
+        "mask_file": "mask_space_30.png",
+        "occupied": 1
+    },
+    "31": {
+        "mask_file": "mask_space_31.png",
+        "occupied": 0
+    },
+    "32": {
+        "mask_file": "mask_space_32.png",
+        "occupied": 1
+    },
+    "33": {
+        "mask_file": "mask_space_33.png",
+        "occupied": 0
+    },
+    "34": {
+        "mask_file": "mask_space_34.png",
+        "occupied": 0
+    },
+    "35": {
+        "mask_file": "mask_space_35.png",
+        "occupied": 1
+    },
+    "36": {
+        "mask_file": "mask_space_36.png",
+        "occupied": 0
+    },
+    "37": {
+        "mask_file": "mask_space_37.png",
+        "occupied": 1
+    },
+    "38": {
+        "mask_file": "mask_space_38.png",
+        "occupied": 0
+    },
+    "39": {
+        "mask_file": "mask_space_39.png",
+        "occupied": 0
+    },
+    "40": {
+        "mask_file": "mask_space_40.png",
+        "occupied": 0
+    },
+    "41": {
+        "mask_file": "mask_space_41.png",
+        "occupied": 1
+    },
+    "42": {
+        "mask_file": "mask_space_42.png",
+        "occupied": 1
+    },
+    "43": {
+        "mask_file": "mask_space_43.png",
+        "occupied": 1
+    },
+    "44": {
+        "mask_file": "mask_space_44.png",
+        "occupied": 0
+    },
+    "45": {
+        "mask_file": "mask_space_45.png",
+        "occupied": 1
+    },
+    "46": {
+        "mask_file": "mask_space_46.png",
+        "occupied": 1
+    },
+    "47": {
+        "mask_file": "mask_space_47.png",
+        "occupied": 1
+    },
+    "48": {
+        "mask_file": "mask_space_48.png",
+        "occupied": 1
+    },
+    "49": {
+        "mask_file": "mask_space_49.png",
+        "occupied": 1
+    },
+    "50": {
+        "mask_file": "mask_space_50.png",
+        "occupied": 1
+    },
+    "51": {
+        "mask_file": "mask_space_51.png",
+        "occupied": 1
+    },
+    "52": {
+        "mask_file": "mask_space_52.png",
+        "occupied": 1
+    },
+    "53": {
+        "mask_file": "mask_space_53.png",
+        "occupied": 1
+    },
+    "54": {
+        "mask_file": "mask_space_54.png",
+        "occupied": 1
+    },
+    "55": {
+        "mask_file": "mask_space_55.png",
+        "occupied": 1
+    },
+    "56": {
+        "mask_file": "mask_space_56.png",
+        "occupied": 1
+    },
+    "57": {
+        "mask_file": "mask_space_57.png",
+        "occupied": 1
+    },
+    "58": {
+        "mask_file": "mask_space_58.png",
+        "occupied": 1
+    },
+    "59": {
+        "mask_file": "mask_space_59.png",
+        "occupied": 1
+    },
+    "60": {
+        "mask_file": "mask_space_60.png",
+        "occupied": 1
+    },
+    "61": {
+        "mask_file": "mask_space_61.png",
+        "occupied": 1
+    },
+    "62": {
+        "mask_file": "mask_space_62.png",
+        "occupied": 1
+    },
+    "63": {
+        "mask_file": "mask_space_63.png",
+        "occupied": 1
+    },
+    "64": {
+        "mask_file": "mask_space_64.png",
+        "occupied": 1
+    },
+    "65": {
+        "mask_file": "mask_space_65.png",
+        "occupied": 1
+    },
+    "66": {
+        "mask_file": "mask_space_66.png",
+        "occupied": 1
+    },
+    "68": {
+        "mask_file": "mask_space_68.png",
+        "occupied": 1
+    },
+    "69": {
+        "mask_file": "mask_space_69.png",
+        "occupied": 1
+    },
+    "70": {
+        "mask_file": "mask_space_70.png",
+        "occupied": 0
+    },
+    "71": {
+        "mask_file": "mask_space_71.png",
+        "occupied": 1
+    },
+    "72": {
+        "mask_file": "mask_space_72.png",
+        "occupied": 1
+    },
+    "73": {
+        "mask_file": "mask_space_73.png",
+        "occupied": 1
+    },
+    "74": {
+        "mask_file": "mask_space_74.png",
+        "occupied": 1
+    },
+    "75": {
+        "mask_file": "mask_space_75.png",
+        "occupied": 1
+    },
+    "76": {
+        "mask_file": "mask_space_76.png",
+        "occupied": 1
+    },
+    "77": {
+        "mask_file": "mask_space_77.png",
+        "occupied": 1
+    },
+    "78": {
+        "mask_file": "mask_space_78.png",
+        "occupied": 1
+    },
+    "79": {
+        "mask_file": "mask_space_79.png",
+        "occupied": 1
+    },
+    "80": {
+        "mask_file": "mask_space_80.png",
+        "occupied": 1
+    },
+    "81": {
+        "mask_file": "mask_space_81.png",
+        "occupied": 1
+    },
+    "82": {
+        "mask_file": "mask_space_82.png",
+        "occupied": 1
+    },
+    "83": {
+        "mask_file": "mask_space_83.png",
+        "occupied": 1
+    },
+    "84": {
+        "mask_file": "mask_space_84.png",
+        "occupied": 1
+    },
+    "85": {
+        "mask_file": "mask_space_85.png",
+        "occupied": 1
+    },
+    "86": {
+        "mask_file": "mask_space_86.png",
+        "occupied": 1
+    },
+    "87": {
+        "mask_file": "mask_space_87.png",
+        "occupied": 1
+    },
+    "88": {
+        "mask_file": "mask_space_88.png",
+        "occupied": 1
+    },
+    "89": {
+        "mask_file": "mask_space_89.png",
+        "occupied": 1
+    },
+    "90": {
+        "mask_file": "mask_space_90.png",
+        "occupied": 0
+    },
+    "91": {
+        "mask_file": "mask_space_91.png",
+        "occupied": 1
+    },
+    "92": {
+        "mask_file": "mask_space_92.png",
+        "occupied": 1
+    },
+    "93": {
+        "mask_file": "mask_space_93.png",
+        "occupied": 1
+    },
+    "94": {
+        "mask_file": "mask_space_94.png",
+        "occupied": 0
+    },
+    "95": {
+        "mask_file": "mask_space_95.png",
+        "occupied": 0
+    },
+    "96": {
+        "mask_file": "mask_space_96.png",
+        "occupied": 0
+    },
+    "97": {
+        "mask_file": "mask_space_97.png",
+        "occupied": 0
+    },
+    "98": {
+        "mask_file": "mask_space_98.png",
+        "occupied": 0
+    },
+    "99": {
+        "mask_file": "mask_space_99.png",
+        "occupied": 0
+    },
+    "100": {
+        "mask_file": "mask_space_100.png",
+        "occupied": 1
+    }
+}

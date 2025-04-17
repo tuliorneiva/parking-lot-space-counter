@@ -1,0 +1,114 @@
+{
+    "1": {
+        "mask_file": "mask_space_1.png",
+        "occupied": 1
+    },
+    "2": {
+        "mask_file": "mask_space_2.png",
+        "occupied": 1
+    },
+    "3": {
+        "mask_file": "mask_space_3.png",
+        "occupied": 1
+    },
+    "4": {
+        "mask_file": "mask_space_4.png",
+        "occupied": 1
+    },
+    "5": {
+        "mask_file": "mask_space_5.png",
+        "occupied": 1
+    },
+    "6": {
+        "mask_file": "mask_space_6.png",
+        "occupied": 1
+    },
+    "7": {
+        "mask_file": "mask_space_7.png",
+        "occupied": 1
+    },
+    "8": {
+        "mask_file": "mask_space_8.png",
+        "occupied": 1
+    },
+    "9": {
+        "mask_file": "mask_space_9.png",
+        "occupied": 1
+    },
+    "10": {
+        "mask_file": "mask_space_10.png",
+        "occupied": 1
+    },
+    "11": {
+        "mask_file": "mask_space_11.png",
+        "occupied": 1
+    },
+    "12": {
+        "mask_file": "mask_space_12.png",
+        "occupied": 1
+    },
+    "13": {
+        "mask_file": "mask_space_13.png",
+        "occupied": 1
+    },
+    "14": {
+        "mask_file": "mask_space_14.png",
+        "occupied": 1
+    },
+    "15": {
+        "mask_file": "mask_space_15.png",
+        "occupied": 1
+    },
+    "16": {
+        "mask_file": "mask_space_16.png",
+        "occupied": 1
+    },
+    "17": {
+        "mask_file": "mask_space_17.png",
+        "occupied": 1
+    },
+    "18": {
+        "mask_file": "mask_space_18.png",
+        "occupied": 1
+    },
+    "19": {
+        "mask_file": "mask_space_19.png",
+        "occupied": 1
+    },
+    "20": {
+        "mask_file": "mask_space_20.png",
+        "occupied": 1
+    },
+    "21": {
+        "mask_file": "mask_space_21.png",
+        "occupied": 1
+    },
+    "22": {
+        "mask_file": "mask_space_22.png",
+        "occupied": 1
+    },
+    "23": {
+        "mask_file": "mask_space_23.png",
+        "occupied": 1
+    },
+    "24": {
+        "mask_file": "mask_space_24.png",
+        "occupied": 1
+    },
+    "25": {
+        "mask_file": "mask_space_25.png",
+        "occupied": 1
+    },
+    "26": {
+        "mask_file": "mask_space_26.png",
+        "occupied": 1
+    },
+    "27": {
+        "mask_file": "mask_space_27.png",
+        "occupied": 1
+    },
+    "28": {
+        "mask_file": "mask_space_28.png",
+        "occupied": 1
+    }
+}
