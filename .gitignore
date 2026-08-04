@@ -1,1 +1,14 @@
 venv/
+
+# Dataset e recortes gerados localmente (grandes)
+PKLot/
+crops/
+
+# Arquivos compactados e lixo do WSL/Windows
+*.zip
+*Zone.Identifier
+
+# Saídas geradas pelo benchmark
+benchmark_results/
+benchmark_cnn_only/
+benchmark_overfit_demo/
