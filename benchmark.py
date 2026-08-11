@@ -44,6 +44,7 @@ OVERFIT_GAP = 0.05
 UNDERFIT_ACC = 0.90
 
 
+
 # Carregamento dos dados
 def load_split(crops_dir, split, size):
     """Carrega recortes de um split e devolve X (imagens size x size x3) e y."""
@@ -118,14 +119,27 @@ def run_classical(sets, clf_size):
     Xtr, Xva, Xte = flatten(Xtr_img), flatten(Xva_img), flatten(Xte_img)
 
     models = {
-        'SVM': GridSearchCV(
-            SVC(), [{'gamma': [0.01, 0.001], 'C': [1, 10, 100]}], cv=3, n_jobs=-1),
-        'KNN': KNeighborsClassifier(n_neighbors=5, n_jobs=-1),
-        'Random Forest': RandomForestClassifier(
-            n_estimators=200, n_jobs=-1, random_state=42),
-    }
+                'SVM': GridSearchCV(
+                        SVC(), [{'gamma': [0.01, 0.001],
+                                 'C': [1, 10, 100]}], cv=3, n_jobs=-1),
+                
+                'KNN': GridSearchCV(
+                        KNeighborsClassifier(n_jobs=-1),
+                        [{'n_neighbors': [7, 11, 13, 17, 19, 23],
+                          'weights': ['uniform'],
+                          'metric': ['euclidean', 'manhattan', 'minkowski']}],
+                        cv=3, n_jobs=-1),
+                
+                'Random Forest': GridSearchCV(
+                                    RandomForestClassifier(random_state=42, n_jobs=-1),
+                                    [{'n_estimators': [100, 200, 400],
+                                      'max_depth': [None, 10, 20],
+                                      "criterion": ["gini", "entropy", "log_loss"]}],
+                                    cv=3, n_jobs=-1),
+            }
 
     results = []
+    
     for name, model in models.items():
         t0 = time.time()
         model.fit(Xtr, ytr)
@@ -134,10 +148,13 @@ def run_classical(sets, clf_size):
         p_te = model.predict(Xte)
         infer_time = time.time() - t0
         p_tr, p_va = model.predict(Xtr), model.predict(Xva)
+        
         if isinstance(model, GridSearchCV):
-            print(f"  [SVM] melhores params: {model.best_params_}")
+            print(f"  [{name}] melhores params: {model.best_params_}")
+            
         results.append(build_result(name, ytr, p_tr, yva, p_va, yte, p_te,
                                      train_time, infer_time))
+        
     return results
 
 
